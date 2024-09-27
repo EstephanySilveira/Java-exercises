@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Create Calculator and EvenOrOdd file">
-      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/TiposPrimitivos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +60,7 @@
     "Application.IdiomaSistema.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SystemInfo.executor": "Run",
+    "Application.TiposPrimitivos.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -99,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727301606416</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create new folders">
+      <option name="closed" value="true" />
+      <created>1727381448671</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727381448671</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +139,7 @@
     <MESSAGE value="Add system date, time, language, and resolution information." />
     <MESSAGE value="Create readme file" />
     <MESSAGE value="Create Calculator and EvenOrOdd file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Calculator and EvenOrOdd file" />
+    <MESSAGE value="Create new folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create new folders" />
   </component>
 </project>
