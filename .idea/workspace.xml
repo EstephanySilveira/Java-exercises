@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/SuperCalculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Código super calculadora antes da melhoria.">
+      <change beforePath="$PROJECT_DIR$/src/CursoEmVideo/SuperCalculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoEmVideo/SuperCalculadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727724694401</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Código super calculadora antes da melhoria.">
+      <option name="closed" value="true" />
+      <created>1727980302255</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727980302255</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +195,7 @@
     <MESSAGE value="testando entradas e saídas" />
     <MESSAGE value="Operadores aritméticos" />
     <MESSAGE value="calculadora simples." />
-    <option name="LAST_COMMIT_MESSAGE" value="calculadora simples." />
+    <MESSAGE value="Código super calculadora antes da melhoria." />
+    <option name="LAST_COMMIT_MESSAGE" value="Código super calculadora antes da melhoria." />
   </component>
 </project>
