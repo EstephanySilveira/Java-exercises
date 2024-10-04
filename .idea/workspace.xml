@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Código super calculadora melhorado.">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/VerificadorIdade.java" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="verificar idade para votar.">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/SorteadorNumeros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,9 +62,11 @@
     "Application.Main.executor": "Run",
     "Application.OperadorTernario.executor": "Run",
     "Application.OperadoresAritmeticos.executor": "Run",
+    "Application.SorteadorNumeros.executor": "Run",
     "Application.SuperCalculadora.executor": "Run",
     "Application.SystemInfo.executor": "Run",
     "Application.TiposPrimitivos.executor": "Run",
+    "Application.VerificadorIdade.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -169,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727981286384</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="verificar idade para votar.">
+      <option name="closed" value="true" />
+      <created>1728070260190</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1728070260190</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +217,7 @@
     <MESSAGE value="calculadora simples." />
     <MESSAGE value="Código super calculadora antes da melhoria." />
     <MESSAGE value="Código super calculadora melhorado." />
-    <option name="LAST_COMMIT_MESSAGE" value="Código super calculadora melhorado." />
+    <MESSAGE value="verificar idade para votar." />
+    <option name="LAST_COMMIT_MESSAGE" value="verificar idade para votar." />
   </component>
 </project>
