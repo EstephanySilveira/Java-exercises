@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Modificar verificador de idade para um verificação mais avançada.">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/PogramaPernas.java" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Exercício para condição de múltiplas escolhas">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/TiposTriangulos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -223,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728327385383</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Exercício para condição de múltiplas escolhas">
+      <option name="closed" value="true" />
+      <created>1728328388162</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728328388162</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +275,7 @@
     <MESSAGE value="Exercício de estruturas compostas par ou ímpar" />
     <MESSAGE value="Exercícios de equação de segundo grau" />
     <MESSAGE value="Modificar verificador de idade para um verificação mais avançada." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modificar verificador de idade para um verificação mais avançada." />
+    <MESSAGE value="Exercício para condição de múltiplas escolhas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício para condição de múltiplas escolhas" />
   </component>
 </project>
