@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Programa que ve se está na média. estrutura condicional simples e composta.">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/ParOuImpar.java" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Exercício de estruturas compostas par ou ímpar">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/EquacaoSegundoGrau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,7 @@
   "keyToString": {
     "Application.CalculadoraSimples.executor": "Run",
     "Application.Calculator.executor": "Run",
+    "Application.EquacaoSegundoGrau.executor": "Run",
     "Application.EvenOrOdd.executor": "Run",
     "Application.Exercicios06.executor": "Run",
     "Application.Factorial.executor": "Run",
@@ -196,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728320938314</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Exercício de estruturas compostas par ou ímpar">
+      <option name="closed" value="true" />
+      <created>1728321238556</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1728321238556</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +247,7 @@
     <MESSAGE value="verificar idade para votar." />
     <MESSAGE value="Jogo para adivinhar o número sorteado." />
     <MESSAGE value="Programa que ve se está na média. estrutura condicional simples e composta." />
-    <option name="LAST_COMMIT_MESSAGE" value="Programa que ve se está na média. estrutura condicional simples e composta." />
+    <MESSAGE value="Exercício de estruturas compostas par ou ímpar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício de estruturas compostas par ou ímpar" />
   </component>
 </project>
