@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Jogo para adivinhar o número sorteado.">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/ProgramaMedia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Programa que ve se está na média. estrutura condicional simples e composta.">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/ParOuImpar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,7 @@
     "Application.Main.executor": "Run",
     "Application.OperadorTernario.executor": "Run",
     "Application.OperadoresAritmeticos.executor": "Run",
+    "Application.ParOuImpar.executor": "Run",
     "Application.ProgramaMedia.executor": "Run",
     "Application.SorteadorNumeros.executor": "Run",
     "Application.SuperCalculadora.executor": "Run",
@@ -188,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728071773275</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Programa que ve se está na média. estrutura condicional simples e composta.">
+      <option name="closed" value="true" />
+      <created>1728320938314</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728320938314</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +236,7 @@
     <MESSAGE value="Código super calculadora melhorado." />
     <MESSAGE value="verificar idade para votar." />
     <MESSAGE value="Jogo para adivinhar o número sorteado." />
-    <option name="LAST_COMMIT_MESSAGE" value="Jogo para adivinhar o número sorteado." />
+    <MESSAGE value="Programa que ve se está na média. estrutura condicional simples e composta." />
+    <option name="LAST_COMMIT_MESSAGE" value="Programa que ve se está na média. estrutura condicional simples e composta." />
   </component>
 </project>
