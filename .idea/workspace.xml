@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="verificar idade para votar.">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/SorteadorNumeros.java" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Jogo para adivinhar o número sorteado.">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/ProgramaMedia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Application.Main.executor": "Run",
     "Application.OperadorTernario.executor": "Run",
     "Application.OperadoresAritmeticos.executor": "Run",
+    "Application.ProgramaMedia.executor": "Run",
     "Application.SorteadorNumeros.executor": "Run",
     "Application.SuperCalculadora.executor": "Run",
     "Application.SystemInfo.executor": "Run",
@@ -179,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728070260190</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Jogo para adivinhar o número sorteado.">
+      <option name="closed" value="true" />
+      <created>1728071773275</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1728071773275</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +227,7 @@
     <MESSAGE value="Código super calculadora antes da melhoria." />
     <MESSAGE value="Código super calculadora melhorado." />
     <MESSAGE value="verificar idade para votar." />
-    <option name="LAST_COMMIT_MESSAGE" value="verificar idade para votar." />
+    <MESSAGE value="Jogo para adivinhar o número sorteado." />
+    <option name="LAST_COMMIT_MESSAGE" value="Jogo para adivinhar o número sorteado." />
   </component>
 </project>
