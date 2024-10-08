@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Exercício para condição de múltiplas escolhas">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/TiposTriangulos.java" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Contador de telas">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/fatorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
   "keyToString": {
     "Application.CalculadoraSimples.executor": "Run",
     "Application.Calculator.executor": "Run",
+    "Application.Contador01.executor": "Run",
     "Application.EquacaoSegundoGrau.executor": "Run",
     "Application.EvenOrOdd.executor": "Run",
     "Application.Exercicios06.executor": "Run",
@@ -69,7 +70,9 @@
     "Application.SorteadorNumeros.executor": "Run",
     "Application.SuperCalculadora.executor": "Run",
     "Application.SystemInfo.executor": "Run",
+    "Application.TelaContador.executor": "Run",
     "Application.TiposPrimitivos.executor": "Run",
+    "Application.TiposTriangulos.executor": "Run",
     "Application.VerificadorIdade.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -231,7 +234,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728328388162</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Exercício para condição de múltiplas escolhas, tipos de triângulos.">
+      <option name="closed" value="true" />
+      <created>1728329541207</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1728329541207</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Contador de telas">
+      <option name="closed" value="true" />
+      <created>1728408104285</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1728408104285</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,6 +295,8 @@
     <MESSAGE value="Exercícios de equação de segundo grau" />
     <MESSAGE value="Modificar verificador de idade para um verificação mais avançada." />
     <MESSAGE value="Exercício para condição de múltiplas escolhas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício para condição de múltiplas escolhas" />
+    <MESSAGE value="Exercício para condição de múltiplas escolhas, tipos de triângulos." />
+    <MESSAGE value="Contador de telas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contador de telas" />
   </component>
 </project>
