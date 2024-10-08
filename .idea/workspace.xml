@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="fatorial de um número.">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/Repeticao01.java" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Contagem de números">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/ExercicioRepita.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factorial.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +57,7 @@
     "Application.Contador01.executor": "Run",
     "Application.EquacaoSegundoGrau.executor": "Run",
     "Application.EvenOrOdd.executor": "Run",
+    "Application.ExercicioRepita.executor": "Run",
     "Application.Exercicios06.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.HoraSistema.executor": "Run",
@@ -261,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728408635382</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Contagem de números">
+      <option name="closed" value="true" />
+      <created>1728409553419</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1728409553419</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,6 +317,7 @@
     <MESSAGE value="Exercício para condição de múltiplas escolhas, tipos de triângulos." />
     <MESSAGE value="Contador de telas" />
     <MESSAGE value="fatorial de um número." />
-    <option name="LAST_COMMIT_MESSAGE" value="fatorial de um número." />
+    <MESSAGE value="Contagem de números" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contagem de números" />
   </component>
 </project>
