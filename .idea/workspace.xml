@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Contador de telas">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/fatorial.java" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="fatorial de um número.">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/Repeticao01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factorial.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,7 @@
     "Application.ParOuImpar.executor": "Run",
     "Application.PogramaPernas.executor": "Run",
     "Application.ProgramaMedia.executor": "Run",
+    "Application.Repeticao01.executor": "Run",
     "Application.SorteadorNumeros.executor": "Run",
     "Application.SuperCalculadora.executor": "Run",
     "Application.SystemInfo.executor": "Run",
@@ -74,6 +76,7 @@
     "Application.TiposPrimitivos.executor": "Run",
     "Application.TiposTriangulos.executor": "Run",
     "Application.VerificadorIdade.executor": "Run",
+    "Application.fatorial.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -250,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728408104285</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="fatorial de um número.">
+      <option name="closed" value="true" />
+      <created>1728408635382</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1728408635382</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +308,7 @@
     <MESSAGE value="Exercício para condição de múltiplas escolhas" />
     <MESSAGE value="Exercício para condição de múltiplas escolhas, tipos de triângulos." />
     <MESSAGE value="Contador de telas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Contador de telas" />
+    <MESSAGE value="fatorial de um número." />
+    <option name="LAST_COMMIT_MESSAGE" value="fatorial de um número." />
   </component>
 </project>
