@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Repetição de números for">
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/tabuada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CursoEmVideo/RepeticaoFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoEmVideo/RepeticaoFor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,41 +50,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CalculadoraSimples.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Contador01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EquacaoSegundoGrau.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenOrOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExercicioRepita.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicios06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HoraSistema.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IdiomaSistema.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperadorTernario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperadoresAritmeticos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParOuImpar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PogramaPernas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProgramaMedia.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Repeticao01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RepeticaoFor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SorteadorNumeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SuperCalculadora.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SystemInfo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TelaContador.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TiposPrimitivos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TiposTriangulos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificadorIdade.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fatorial.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CalculadoraSimples.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Contador01.executor": "Run",
+    "Application.EquacaoSegundoGrau.executor": "Run",
+    "Application.EvenOrOdd.executor": "Run",
+    "Application.ExercicioRepita.executor": "Run",
+    "Application.Exercicios06.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.HoraSistema.executor": "Run",
+    "Application.IdiomaSistema.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OperadorTernario.executor": "Run",
+    "Application.OperadoresAritmeticos.executor": "Run",
+    "Application.ParOuImpar.executor": "Run",
+    "Application.PogramaPernas.executor": "Run",
+    "Application.ProgramaMedia.executor": "Run",
+    "Application.Repeticao01.executor": "Run",
+    "Application.RepeticaoFor.executor": "Run",
+    "Application.SorteadorNumeros.executor": "Run",
+    "Application.SuperCalculadora.executor": "Run",
+    "Application.SystemInfo.executor": "Run",
+    "Application.TelaContador.executor": "Run",
+    "Application.TiposPrimitivos.executor": "Run",
+    "Application.TiposTriangulos.executor": "Run",
+    "Application.VerificadorIdade.executor": "Run",
+    "Application.fatorial.executor": "Run",
+    "Application.tabuada.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -286,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728501148466</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Repetição de números for">
+      <option name="closed" value="true" />
+      <created>1728502405234</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1728502405234</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
