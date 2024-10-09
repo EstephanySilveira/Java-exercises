@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Contagem de números">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/ExercicioRepita.java" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Repetição de números">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/RepeticaoFor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +69,7 @@
     "Application.PogramaPernas.executor": "Run",
     "Application.ProgramaMedia.executor": "Run",
     "Application.Repeticao01.executor": "Run",
+    "Application.RepeticaoFor.executor": "Run",
     "Application.SorteadorNumeros.executor": "Run",
     "Application.SuperCalculadora.executor": "Run",
     "Application.SystemInfo.executor": "Run",
@@ -269,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728409553419</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Repetição de números">
+      <option name="closed" value="true" />
+      <created>1728411446537</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1728411446537</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,6 +327,7 @@
     <MESSAGE value="Contador de telas" />
     <MESSAGE value="fatorial de um número." />
     <MESSAGE value="Contagem de números" />
-    <option name="LAST_COMMIT_MESSAGE" value="Contagem de números" />
+    <MESSAGE value="Repetição de números" />
+    <option name="LAST_COMMIT_MESSAGE" value="Repetição de números" />
   </component>
 </project>
