@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Repetição de números for">
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/tabuada.java" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Tabuada ajustada">
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Soma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +70,7 @@
     "Application.ProgramaMedia.executor": "Run",
     "Application.Repeticao01.executor": "Run",
     "Application.RepeticaoFor.executor": "Run",
+    "Application.Soma.executor": "Run",
     "Application.SorteadorNumeros.executor": "Run",
     "Application.SuperCalculadora.executor": "Run",
     "Application.SystemInfo.executor": "Run",
@@ -295,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728502405234</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Tabuada ajustada">
+      <option name="closed" value="true" />
+      <created>1728503599319</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1728503599319</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,6 +355,7 @@
     <MESSAGE value="Contagem de números" />
     <MESSAGE value="Repetição de números" />
     <MESSAGE value="Repetição de números for" />
-    <option name="LAST_COMMIT_MESSAGE" value="Repetição de números for" />
+    <MESSAGE value="Tabuada ajustada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tabuada ajustada" />
   </component>
 </project>
