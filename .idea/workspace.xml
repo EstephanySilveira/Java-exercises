@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Segundo exemplo de vetores usando o length">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/Vetor03.java" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Terceiro exemplo colocando os números em ordem">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/Vetor04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +79,7 @@
     "Application.VerificadorIdade.executor": "Run",
     "Application.Vetor01.executor": "Run",
     "Application.Vetor02.executor": "Run",
+    "Application.Vetor03.executor": "Run",
     "Application.fatorial.executor": "Run",
     "Application.tabuada.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -329,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728584406520</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Terceiro exemplo colocando os números em ordem">
+      <option name="closed" value="true" />
+      <created>1728584802829</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1728584802829</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,7 +365,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create new folders" />
     <MESSAGE value="tipos primitivis" />
     <MESSAGE value="Calculadora de idade" />
     <MESSAGE value="testando entradas e saídas" />
@@ -381,6 +389,7 @@
     <MESSAGE value="Exercício de soma para praticar for." />
     <MESSAGE value="Exemplos de vetores" />
     <MESSAGE value="Segundo exemplo de vetores usando o length" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segundo exemplo de vetores usando o length" />
+    <MESSAGE value="Terceiro exemplo colocando os números em ordem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terceiro exemplo colocando os números em ordem" />
   </component>
 </project>
