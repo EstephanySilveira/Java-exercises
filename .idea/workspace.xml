@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Tabuada ajustada">
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Soma.java" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Exercício de soma para praticar for.">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/Vetor01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +78,7 @@
     "Application.TiposPrimitivos.executor": "Run",
     "Application.TiposTriangulos.executor": "Run",
     "Application.VerificadorIdade.executor": "Run",
+    "Application.Vetor01.executor": "Run",
     "Application.fatorial.executor": "Run",
     "Application.tabuada.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -304,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728503599319</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Exercício de soma para praticar for.">
+      <option name="closed" value="true" />
+      <created>1728505780832</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1728505780832</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,7 +340,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add system date, time, language, and resolution information." />
     <MESSAGE value="Create readme file" />
     <MESSAGE value="Create Calculator and EvenOrOdd file" />
     <MESSAGE value="Create new folders" />
@@ -356,6 +364,7 @@
     <MESSAGE value="Repetição de números" />
     <MESSAGE value="Repetição de números for" />
     <MESSAGE value="Tabuada ajustada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tabuada ajustada" />
+    <MESSAGE value="Exercício de soma para praticar for." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício de soma para praticar for." />
   </component>
 </project>
