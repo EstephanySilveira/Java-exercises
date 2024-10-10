@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Exercício de soma para praticar for.">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/Vetor01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Exemplos de vetores">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/Vetor02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -313,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728505780832</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Exemplos de vetores">
+      <option name="closed" value="true" />
+      <created>1728583868449</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1728583868449</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,7 +347,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create readme file" />
     <MESSAGE value="Create Calculator and EvenOrOdd file" />
     <MESSAGE value="Create new folders" />
     <MESSAGE value="tipos primitivis" />
@@ -365,6 +371,7 @@
     <MESSAGE value="Repetição de números for" />
     <MESSAGE value="Tabuada ajustada" />
     <MESSAGE value="Exercício de soma para praticar for." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício de soma para praticar for." />
+    <MESSAGE value="Exemplos de vetores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exemplos de vetores" />
   </component>
 </project>
