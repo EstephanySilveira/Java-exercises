@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Quarto exemplo usando o metodo binarySearch do array para procurar por número expecífico" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment=" Quinto exemplo usando o metodo fill do array para preencher um vetor">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/ExercicioVetor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +58,7 @@
     "Application.EquacaoSegundoGrau.executor": "Run",
     "Application.EvenOrOdd.executor": "Run",
     "Application.ExercicioRepita.executor": "Run",
+    "Application.ExercicioVetor.executor": "Run",
     "Application.Exercicios06.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.HoraSistema.executor": "Run",
@@ -79,6 +83,7 @@
     "Application.Vetor02.executor": "Run",
     "Application.Vetor03.executor": "Run",
     "Application.Vetor04.executor": "Run",
+    "Application.Vetor05.executor": "Run",
     "Application.fatorial.executor": "Run",
     "Application.tabuada.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -345,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728585158333</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary=" Quinto exemplo usando o metodo fill do array para preencher um vetor">
+      <option name="closed" value="true" />
+      <created>1728585427481</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1728585427481</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,7 +385,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Calculadora de idade" />
     <MESSAGE value="testando entradas e saídas" />
     <MESSAGE value="Operadores aritméticos" />
     <MESSAGE value="calculadora simples." />
@@ -397,6 +409,7 @@
     <MESSAGE value="Segundo exemplo de vetores usando o length" />
     <MESSAGE value="Terceiro exemplo colocando os números em ordem" />
     <MESSAGE value="Quarto exemplo usando o metodo binarySearch do array para procurar por número expecífico" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quarto exemplo usando o metodo binarySearch do array para procurar por número expecífico" />
+    <MESSAGE value=" Quinto exemplo usando o metodo fill do array para preencher um vetor" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Quinto exemplo usando o metodo fill do array para preencher um vetor" />
   </component>
 </project>
