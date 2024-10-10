@@ -54,10 +54,12 @@ public class ExercicioVetor {
                 System.out.println("Opção inválida!");
             }
 
+            System.out.println("\n");
             System.out.println("Vetor atual: ");
             for (int valor:vetor) {
                 System.out.print(valor + " ");
             }
         }
+        scanner.close();
     }
 }
