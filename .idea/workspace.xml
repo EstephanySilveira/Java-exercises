@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Segundo exercício de métodos">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/FatorialMetodos.java" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Terceiro exercício de métodos">
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/CalculadoraMetodo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CursoEmVideo/fatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoEmVideo/Fatorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalculadoraMetodo.executor": "Run",
     "Application.CalculadoraSimples.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.Contador01.executor": "Run",
@@ -61,6 +63,7 @@
     "Application.ExercicioVetor.executor": "Run",
     "Application.Exercicios06.executor": "Run",
     "Application.Factorial.executor": "Run",
+    "Application.FatorialMetodos.executor": "Run",
     "Application.HoraSistema.executor": "Run",
     "Application.IdiomaSistema.executor": "Run",
     "Application.Main.executor": "Run",
@@ -400,7 +403,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728671590718</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Terceiro exercício de métodos">
+      <option name="closed" value="true" />
+      <created>1728672357801</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1728672357801</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -427,7 +438,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="verificar idade para votar." />
     <MESSAGE value="Jogo para adivinhar o número sorteado." />
     <MESSAGE value="Programa que ve se está na média. estrutura condicional simples e composta." />
     <MESSAGE value="Exercício de estruturas compostas par ou ímpar" />
@@ -452,6 +462,7 @@
     <MESSAGE value="Menu para trabalhar com vetor melhorado com scanner fechado" />
     <MESSAGE value="Introdução métodos" />
     <MESSAGE value="Segundo exercício de métodos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segundo exercício de métodos" />
+    <MESSAGE value="Terceiro exercício de métodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terceiro exercício de métodos" />
   </component>
 </project>
