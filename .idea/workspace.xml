@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Introdução métodos">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/TesteFuncao02/Operacoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/TesteFuncao02/TesteFuncao02.java" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Segundo exercício de métodos">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/FatorialMetodos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +77,7 @@
     "Application.SystemInfo.executor": "Run",
     "Application.TelaContador.executor": "Run",
     "Application.TesteFuncao01.executor": "Run",
+    "Application.TesteFuncao02.executor": "Run",
     "Application.TiposPrimitivos.executor": "Run",
     "Application.TiposTriangulos.executor": "Run",
     "Application.VerificadorIdade.executor": "Run",
@@ -391,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728671018951</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Segundo exercício de métodos">
+      <option name="closed" value="true" />
+      <created>1728671590717</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1728671590718</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -418,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Código super calculadora melhorado." />
     <MESSAGE value="verificar idade para votar." />
     <MESSAGE value="Jogo para adivinhar o número sorteado." />
     <MESSAGE value="Programa que ve se está na média. estrutura condicional simples e composta." />
@@ -443,6 +451,7 @@
     <MESSAGE value="Menu para trabalhar com vetor melhorado" />
     <MESSAGE value="Menu para trabalhar com vetor melhorado com scanner fechado" />
     <MESSAGE value="Introdução métodos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Introdução métodos" />
+    <MESSAGE value="Segundo exercício de métodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segundo exercício de métodos" />
   </component>
 </project>
