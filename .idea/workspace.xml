@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Menu para trabalhar com vetor melhorado com scanner fechado">
-      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/TesteFuncao01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d316b3f8-9991-4652-8d88-3269b2d4dcda" name="Changes" comment="Introdução métodos">
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/TesteFuncao02/Operacoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CursoEmVideo/TesteFuncao02/TesteFuncao02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -383,7 +383,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728587860345</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Introdução métodos">
+      <option name="closed" value="true" />
+      <created>1728671018951</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1728671018951</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,7 +418,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Código super calculadora antes da melhoria." />
     <MESSAGE value="Código super calculadora melhorado." />
     <MESSAGE value="verificar idade para votar." />
     <MESSAGE value="Jogo para adivinhar o número sorteado." />
@@ -435,6 +442,7 @@
     <MESSAGE value="Menu para trabalhar com vetor" />
     <MESSAGE value="Menu para trabalhar com vetor melhorado" />
     <MESSAGE value="Menu para trabalhar com vetor melhorado com scanner fechado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menu para trabalhar com vetor melhorado com scanner fechado" />
+    <MESSAGE value="Introdução métodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introdução métodos" />
   </component>
 </project>
